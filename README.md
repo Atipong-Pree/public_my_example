@@ -18,3 +18,13 @@ Body raw JSON : {"username":"user1","password":"pass1"}
 | jack      | 123456    |MODERATOR  |
 | jane      | 123456    |USER       |
 
+
+
+| TEST /auth  |
+|-----------|
+|<img width="726" alt="img1" src="https://user-images.githubusercontent.com/110652053/192255147-6e23e73a-1d0e-4b8a-8f00-1ca4774210d0.png">|
+
+| TEST /user|
+|-----------|
+|<img width="726" alt="img2" src="https://user-images.githubusercontent.com/110652053/192255300-095b12cd-74a1-40e1-8df5-f52c3699f90b.png">|
+
