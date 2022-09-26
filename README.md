@@ -1,5 +1,5 @@
 # public_my_example
-Demo Link [Jwt authentication api](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/).
+Demo Link hostname : [Jwt authentication api](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/).
 API Authentication : Test by POSTMAN
 | Methods |    URL    |        Action                         |       Require                                     |
 |---------|-----------|---------------------------------------|---------------------------------------------------|
