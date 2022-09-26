@@ -18,11 +18,11 @@ Body raw JSON : {"username":"user1","password":"pass1"}
 | jack      | 123456    |MODERATOR  |
 | jane      | 123456    |USER       |
 
-
-
+Test by POSTMAN  [Donwload POSTMAN](https://www.postman.com/downloads/)
 | TEST /auth  |
 |-----------|
 |<img width="726" alt="img1" src="https://user-images.githubusercontent.com/110652053/192255147-6e23e73a-1d0e-4b8a-8f00-1ca4774210d0.png">|
+
 
 | TEST /user|
 |-----------|
