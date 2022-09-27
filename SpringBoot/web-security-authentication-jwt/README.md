@@ -1,6 +1,7 @@
 # Spring Boot Web Security - JWT Authentication
-Demo Link hostname : [Jwt authentication api](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/).
-API Authentication : Test by POSTMAN
+Demo Link hostname : [Jwt authentication api](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/)
+
+API Authentication : Test by POSTMAN  [Donwload POSTMAN](https://www.postman.com/downloads/)
 | Methods |    URL    |        Action                         |       Require                                     |
 |---------|-----------|---------------------------------------|---------------------------------------------------|
 | POST    |  [/auth](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/auth)    | authentication and get access token   | username and password                             |
@@ -11,7 +12,7 @@ API Authentication : Test by POSTMAN
 Example : Method : POST , URL : [http://hostname/auth](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/auth)
 Body raw JSON : {"username":"user1","password":"pass1"}
 
-**User for Test**
+**User for tesingt**
 | Username  | Password  | Roles     |
 |-----------|-----------|-----------|
 | john      | 123456    |ADMIN      |
@@ -19,10 +20,12 @@ Body raw JSON : {"username":"user1","password":"pass1"}
 | jane      | 123456    |USER       |
 
 
+**Test by POSTMAN**  
 
 | TEST /auth  |
 |-----------|
 |<img width="726" alt="img1" src="https://user-images.githubusercontent.com/110652053/192255147-6e23e73a-1d0e-4b8a-8f00-1ca4774210d0.png">|
+
 
 | TEST /user|
 |-----------|
