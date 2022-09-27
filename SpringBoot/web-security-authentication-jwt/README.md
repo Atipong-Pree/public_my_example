@@ -1,5 +1,5 @@
 # Spring Boot Web Security - JWT Authentication
-Demo Link hostname : [security-jwt](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/)
+Demo Link hostname : [security-jwt ](http://springbootawsdemo-env.eba-uddtbvn6.us-east-1.elasticbeanstalk.com/)
 
 API Authentication : Test by POSTMAN  [Donwload POSTMAN](https://www.postman.com/downloads/)
 | Methods |    URL    |        Action                         |       Require                                     |
