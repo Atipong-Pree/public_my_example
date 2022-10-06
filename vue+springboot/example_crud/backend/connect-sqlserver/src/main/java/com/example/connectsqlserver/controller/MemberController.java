@@ -13,7 +13,7 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://vue-aws-demo.s3-website-us-east-1.amazonaws.com/")
+@CrossOrigin(origins = {"${origins.domain}"})
 public class MemberController {
 
     @Autowired
